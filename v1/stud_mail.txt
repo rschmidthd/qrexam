@@ -1,0 +1,34 @@
+An: {Vorname} {Nachname}
+Matrikenummer: {Matrikel}
+
+Liebe/r PEP2 Teilnehmer/in,
+
+im folgenden erhalten Sie wichtige Informationen zur Nachklausur Experimentalphysik 2.
+
+Die Nachklausur findet am kommenden Samstag, den XX. Oktober, von 9:00 - 11:00 Uhr in den Hörsälen des Gebäudes XXXXXX statt. Einlass ist ab 8:45 Uhr.
+
+Das Hygienekonzept der Universität sieht vor, dass jedem Teilnehmenden ein fester Sitzplatz zugewiesen wird. Sie führen die Klausur in folgendem Raum und an folgendem Sitzplatz durch:
+
+Gebäude und Raum: {Raum}
+Sitzplatz Nummer: {Sitzplatz}
+
+Zur Orientierung finden Sie hier Hörsaalpläne mit der Sitzplatznummerierung: https://heibox.uni-heidelberg.de/XXXXX
+
+Bitte beachten Sie, dass im Rahmen der Maßnahmen gegen die Corona-Epidemie verbindliche Regeln der Universität gelten:
+
+Das Betreten universitärer Einrichtungen und die Teilnahme an der Nachklausur ist nur denjenigen Personen erlaubt, bei denen keine der in der Corona-Verordnung Baden-Württemberg definierten Ausschlussgründe, wie z. B. typische Symptome einer Infektion mit dem Coronavirus, vorliegen. Die Teilnahme ist auch nicht gestattet, wenn Sie während der vergangenen 14 Tage in Kontakt mit einer infizierten Person standen. Sollten eine oder mehrerere diese Ausschlusskriterien auf Sie zutreffen, setzen Sie sich bitte mit mir in Verbindung.
+
+Das Tragen eines Mund-Nasen-Schutzes in den Räumlichkeiten der Universität ist verpflichtend. Zwischen den Anwesenden muss zu allen Zeiten ein Mindestabstand von 1,5 Metern eingehalten werden.
+
+Die Corona-Verordnungen verpflichten die Universität dazu, bei allen Besucher*innen, Nutzer*innen und Teilnehmenden an Veranstaltungen folgende Daten zu erfassen: Vor- und Nachname, Anschrift, Datum und Zeitraum der Anwesenheit, sowie die Telefonnummer. Das zugehörige Formular wird Ihnen vor Beginn der Nachklausur zur Verfügung gestellt, Sie finden es vorab unter https://XXXXXXXXXXXX
+
+Weitere Informationen zu den Corona-Maßnahmen der Universität finden Sie unter https://www.uni-heidelberg.de/de/newsroom/informationen-zum-coronavirus.
+
+
+Viel Erfolg wünscht
+
+
+Udo Frieß
+
+
+Diese Mail wurde maschinell erstellt.
