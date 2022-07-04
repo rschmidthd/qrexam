@@ -64,7 +64,7 @@ student that can then be uploaded, e.g., to an exam inspection tool.
   script will generate a pandas data base which contains the location of all pages and 
   their orientation (rotated/flipped).
 
-- 05_Check_Teilnehmer.py: This script allows you a plausibility check whether all submitted 
+- 05_check_completeness.py: This script allows you a plausibility check whether all submitted 
   exams have all the required problems. If one problem is missing (see script 09), it can 
   be indidcated in the scritp (special case, best to avoid for starters).
 
