@@ -13,6 +13,7 @@ are released under GPL3.
 List of authors for the current version:
 
 Udo Friess          udo.friess@iup.physik.uni-heidelberg.de
+
 Robert W. Schmidt   rschmidt@uni-heidelberg.de
 
 Please check required_packages.txt for required moduls/packages.
