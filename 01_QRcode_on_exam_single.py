@@ -125,7 +125,7 @@ def AddKlausur(output, num, add_empty_page = False):
 #### Main Program
 outpath = 'tray'
 
-infile = 'klausur.pdf'
+infile = 'demo_klausur.pdf'
 
 # Nur eine einzige Datei mit allen Klausuren?
 # Falls SingleFile = False, dann einzelne Ausgabedatei für jeden Raum.
