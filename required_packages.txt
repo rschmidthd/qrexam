@@ -1,4 +1,4 @@
-PyMuPDF
+PyMuPDF >= 1.19.4
 pdf2image
 pillow
 pyzbar
